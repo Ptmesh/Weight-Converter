@@ -1,0 +1,17 @@
+body
+{
+  margin:70px;
+  background: #333;
+}
+h1
+{
+  color: white;
+}
+
+footer
+{
+  color: white;
+  text-align: center;
+  align-items: center;
+  margin-top: 2.5rem;
+}
